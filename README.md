@@ -1,2 +1,62 @@
 # computer-basics-cell-formatting-
 Professional Cell Formatting project demonstrating basic spreadsheet formatting skills, including fonts, colors, borders, alignment, number formats, fill colors, and data presentation.
+# Professional Cell Formatting
+
+## 📌 Project Overview
+
+This project demonstrates professional cell formatting techniques used in spreadsheet applications such as Microsoft Excel and Google Sheets.
+
+The project focuses on creating clean, organized, and professional-looking spreadsheets using different cell formatting features.
+
+## 🎯 Objectives
+
+- Learn professional cell formatting
+- Improve spreadsheet readability
+- Organize data clearly
+- Apply consistent formatting
+- Create job-ready spreadsheet presentation
+
+## 🛠️ Formatting Skills Covered
+
+- Font style and font size
+- Bold, Italic and Underline
+- Text and fill colors
+- Cell borders
+- Text alignment
+- Merge and Center
+- Number formatting
+- Currency formatting
+- Percentage formatting
+- Date formatting
+- Row height and column width
+- Header formatting
+- Data presentation
+
+## 📊 Project Features
+
+| Feature | Description |
+|---|---|
+| Header Formatting | Professional titles and column headers |
+| Font Formatting | Font style, size, bold and italic |
+| Fill Color | Highlights important sections |
+| Borders | Creates clear table structure |
+| Alignment | Proper text and number alignment |
+| Number Format | Displays numbers professionally |
+| Currency Format | Formats financial values |
+| Percentage Format | Displays percentage values |
+| Date Format | Displays dates consistently |
+| Column Width | Improves readability |
+
+## 💻 Tools Used
+
+- Microsoft Excel
+- Google Sheets
+
+## 📁 Project Structure
+
+```text
+Professional-Cell-Formatting/
+│
+├── Cell Formatting Project
+├── Screenshots/
+└── README.md
